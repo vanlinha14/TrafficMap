@@ -1,0 +1,15 @@
+﻿****Do an chuyen nganh****
+SVTH:
+	12520077 – Ha Huy Duc
+	13520446 – Mai Van Linh
+GVHD:
+	Nguyen Trac Thuc
+
+De tai: Tim hieu ve RESTAPI WEBSERVICE, xay dung ung dung canh bao un tac giao thong
+
+10/06/2017
+***************************
+***************************
+Database name: `mapdemo`
+***************************
+***************************
