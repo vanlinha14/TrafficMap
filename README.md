@@ -17,6 +17,6 @@ Khi tài xế tham gia giao thông, từ thời gian và quãng đường mà t�
 Thông tin giao thông sẽ được cập nhập liên tục cho các tài xế, để có thể lựa chọn lộ trình thích hợp, tránh các địa điểm đang có lưu lượng đông, góp phần giảm thiểu tình trạng ùn tắc, kẹ xe đang nhức nhối hiện nay.
 ***************************
 ***************************
-client: android
-Server: PHP
-database: Mysql
+client: android.
+Server: PHP.
+database: Mysql.
